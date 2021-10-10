@@ -1,4 +1,4 @@
-## DATAWAREHOSE ON AWS
+## DATAWAREHOUSE ON AWS
 ### The purpose of this project is to build a datawarehouse to accomodate data of active user activity for music streaming application 'Sparkify'. This data model is implemented on AWS cloud infrastructure with following components -
    >- AWS S3 - Source datasets.
    >- AWS Redshift<br>
